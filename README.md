@@ -1,6 +1,6 @@
 # ss-plus
 ## Overview
-[ss plus(https://github.com/angusding/ss-plus) for OpenWrt is an improved editon from [shadowsocks-libev plus](https://github.com/angusding/shadowsocks-libev-plus), which enhanced editon extended from [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev). It supports transparent proxy based on extensible custom list and updatable gfwlist, and fast DNS response.
+[ss plus](https://github.com/angusding/ss-plus) for OpenWrt is an improved editon from [shadowsocks-libev plus](https://github.com/angusding/shadowsocks-libev-plus), which enhanced editon extended from [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev). It supports transparent proxy based on extensible custom list and updatable gfwlist, and fast DNS response.
 ## Installation
 ### OpenWrt
 
